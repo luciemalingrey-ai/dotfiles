@@ -67,4 +67,4 @@
 	helper = !/usr/bin/gh auth git-credential
 [user]
 	email = lucie.malingrey@gmail.com
-	name = Lucie Malingrey
+	name = lewagon/dotfiles
